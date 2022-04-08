@@ -1,2 +1,2 @@
 # Class-Exercisse
-This is a repository that recording class exercises
+This is a repository that recording some exercises
